@@ -1,0 +1,22 @@
+body{
+  background-color: #EAF6F6;
+  font-family: "Times New Roman";
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 2%;
+  color: grey;
+  height: 5px;
+
+}
+h3{
+  color: #7FB5FF;
+}
+h1{
+  color: #7FB5FF;
+}
+.thanks{
+  font-size: 55px;
+}
